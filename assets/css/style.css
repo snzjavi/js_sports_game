@@ -1,0 +1,24 @@
+.hide {
+    display: none;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+#reset-container, h1 {
+    text-align: center;
+}
+
+body {
+    background-image: url(../css/soccerfield.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 720px;
+    position: relative;
+    
+}
